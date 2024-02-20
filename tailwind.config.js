@@ -23,14 +23,21 @@ module.exports = {
 
       colors: {
         mainDark: "#020617",
-        mainLight: "#0F172A",
+        mainDarkLvl2: "#0F172A",
+        mainLight: "#1E293B",
         mainH1: "#94A3B8",
         mainFontColor: "#F1F5F9",
+        succesColor: "#0D9488",
+        GET: "#2DD4BF",
+        POST: "#FACC15",
+        PUT: "#FB923C",
+        PATCH: "#A78BFA",
+        DELETE: "#F87171",
       },
 
       fontFamily: {
         bigFont: "Bebas Neue, sans-serif",
-        regularFont: "Roboto Condensed, sans-serif",
+        montserrat: "Montserrat, sans-serif",
       },
     },
   },
