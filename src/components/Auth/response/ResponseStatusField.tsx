@@ -30,7 +30,7 @@ export const ResponseStatusField: React.FC<ResponseStatusFieldProps> = ({
               >
                 {status.status}
               </h4>
-              <p className="font-montserrat text-center font-semibold md:text-sm text-xl">
+              <p className="font-montserrat max-w-32 text-center font-semibold md:text-sm text-xl">
                 {status.message}
               </p>
             </li>
